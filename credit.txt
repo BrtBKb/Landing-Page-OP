@@ -1,0 +1,59 @@
+Source of images used from Pexels
+
+~/repos/landingpage/
+Landing-Page-OP/images
+
+https://www.pexels.com/
+
+Underdriveway.jpg
+https://www.pexels.com/photo/tunnel-in-fort-tryon-park-5854353/
+-Jona Jons
+
+foggyroad.jpg
+https://www.pexels.com/photo/view-of-an-asphalt-road-and-trees-in-fog-20290142/
+-ebin john
+
+wall.jpg
+https://www.pexels.com/photo/neglected-gothic-abbey-15764831/
+-alex quezada
+
+park.jpg
+https://www.pexels.com/photo/view-of-a-park-with-leafless-trees-in-sunlight-15520928/
+-artūras-kokorevas-
+
+trail.jph
+https://www.pexels.com/photo/a-man-running-on-trail-13093644/
+-Laura Paredis
+
+imgone.jpg
+https://www.pexels.com/photo/green-grass-near-trees-1770809/
+luis dalvan
+
+imgtwo.jpg
+https://www.pexels.com/photo/river-flowing-under-suspension-bridge-on-sunny-autumn-day-5876294/
+mart wave
+
+imgthree.jpg
+https://www.pexels.com/photo/green-leafed-tree-beside-body-of-water-during-daytime-158063/
+pixabay
+
+imgfour.jpg
+https://www.pexels.com/photo/body-of-water-between-green-leaf-trees-709552/
+ian turnell
+
+imgfive.jpg
+https://www.pexels.com/photo/view-of-sun-shining-between-trees-in-a-forest-15645720/
+MICHAEL MCGARRY
+
+imgsix.jpg
+https://www.pexels.com/photo/green-leafed-tree-38136/
+veeterzy
+
+timemachine.jpg
+https://www.pexels.com/photo/hourglass-sculpture-5029576/
+Sebastiaan Stam
+
+staff.jpg
+https://www.pexels.com/photo/group-of-people-standing-indoors-3184396/
+fauxels
+
