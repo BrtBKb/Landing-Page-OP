@@ -1,0 +1,74 @@
+.background {
+    background-color: #1f2937;
+}
+
+.quotebackground {
+    background-color: #e5e7eb;
+}
+
+.quotetext {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.informationheader {
+    font-size: 36px;
+    font-style: bold;
+    color: #000000;
+}
+
+.buttoncolor{
+    color: #3882f6;
+}
+
+.primarytext {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.secondarytext {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+
+.navcontainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.navitemone {
+    margin-right: auto;
+}
+
+/* .navitemtwo {
+    margin-left: auto;
+} */
+
+.headerflex {
+    display: flex;
+    flex-direction: row;
+}
+
+/* .headeritem {
+    display: flex;
+    flex-direction: column;
+} */
+
+.headerstyle {
+    text-align: center;
+}
