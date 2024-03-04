@@ -25,30 +25,53 @@
             <a class="button" href="pages/Registration.html">Sign up!</a>
     </header>       
 </div>
+
+
      <h2>Random Gems</h2> <!-- header 1 -->
-     <p class="secondarytext">Height's Time Machine was inspired by a the local historal park Fort Tryon Park. Many of its different 
-        <ul> <!-- add ul -->
-            <li><img src="images/park.jpg " width="250" height="250" alt="Park">"Fort Tryon Park in New York City was designed by Frederick Law Olmsted Jr., 
-                the son of the landscape architect who designed Central Park."</li> <!-- add li , img attribute, caption -->
-            <li><img src="images/foggyroad.jpg" width="250" height="250" alt="Foggy Road">"The Cloisters in Manhattan, part of the Metropolitan Museum of Art, is a museum dedicated to medieval European art and architecture, 
-                featuring a collection of over 5,000 works dating from the 9th to the 16th centuries."</li> <!-- add li , img attribute, caption -->
-            <li><img src="images/wall.jpg" width="250" height="250" alt="Adjacent Walls">"The Cloisters museum in Manhattan's Fort Tryon
-                 Park houses over 2,000 artworks and architectural elements from medieval Europe."</li> <!-- add li , img attribute, caption -->
-            <li><img src="images/trail.jpg" width="250" height="250" alt="Running trail">"The George Washington Bridge in New York City has an interesting nickname: 
-                the "GW Car-stration Bridge" due to the infamous traffic congestion it often experiences."</li> <!-- add li , img attribute, caption -->
-        </ul>
+     <div class="flexcontainer">
+        <figure>
+            <img class="fleximg" src="images/park.jpg">
+            <figcaption>
+                Fort Tryon Park in New York City was designed by Frederick Law Olmsted Jr.
+            </figcaption>
+        </figure>
+        <figure>
+            <img class="fleximg" src="images/foggyroad.jpg">
+            <figcaption>
+                The George Washington Bridge in New York City has an interesting nickname: 
+                the "GW Car-stration Bridge" due to the infamous traffic congestion it often experiences.            </figcaption>
+        </figure>
+        <figure>
+            <img class="fleximg" src="images/trail.jpg">
+            <figcaption>
+                The Cloisters museum in Manhattan's Fort Tryon
+                Park houses over 2,000 artworks and architectural elements from medieval Europe.
+            </figcaption>
+        </figure>
+        <figure>
+            <img class="fleximg" src="images/wall.jpg">
+            <figcaption>
+                The Cloisters in Manhattan, part of the Metropolitan Museum of Art
+                </figcaption>
+        </figure>
+     </div>
+
     <div class="quotebackground">
-             <p class="quotetext "> <!-- add paragraph -->
+             <p class="quotetext qpara"> <!-- add paragraph -->
                 "Remember, dear friends, it is not the size of the sword that matters, but the sharpness of the wit that wields it!" 
                 
-                <strong>-Sir Bartholomew Pumpernickel, inventor of the self-peeling banana peel, 1725.</strong>
+                <strong class="qem">-Sir Bartholomew Pumpernickel,  1725.</strong>
             </p>
     </div>
-    <div>
-        <h2>Try out our special tour guide of the magical park!</h2> <!-- add header 2 -->
-        <a href="pages/Registration.html">Sign up!</a>
+    <div class="bottomflex">
+        <div class="bottomitem">
+        <h2>Try out our special tour guide of the magical park!</h2>
     </div>
-    <footer class="background"> <!-- Add Footer -->
+    <div class="itemcolor">
+        <a href="pages/Registration.html">Sign Up</a> <!--header-->
+    </div>
+    </div>
+    <footer class="background"> Add Footer
        Copyright @ The Odin Project 2024
     </footer>
     <a action="pages/Registration.html" href="#top">Top</a>
